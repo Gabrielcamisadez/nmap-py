@@ -1,2 +1,2 @@
 # nmap-py
-🔮 simple range scanner 🔮
+🔮 simple ip range scanner 🔮
