@@ -25,7 +25,7 @@ async def scan_network(ip_range):
     print(f"🏆 Finish!")
 
 async def main():
-    ip_ranges = ["201.49.158.0/23"]
+    ip_ranges = ["IP RANGE AQUI"]
 
     tasks = [scan_network(ip_range) for ip_range in ip_ranges]
 
